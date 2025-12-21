@@ -3,8 +3,6 @@ import requests
 import tqdm
 from zipfile import ZipFile
 
-
-
 FALL_SEQUENCES = 30
 ADL_SEQUENCES = 40
 
