@@ -211,3 +211,4 @@ datasets
 models
 data_normals
 data_viridis
+data_basic_depth
